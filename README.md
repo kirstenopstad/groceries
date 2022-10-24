@@ -1,18 +1,22 @@
-# TEMPLATE
+# Groceries
 
-#### By Kirsten Opstad
+#### By Kirsten Opstad & Auston Moos
 
 #### A template for writing a README.md
 
 ## Technologies Used
 
-* Technology1 
-* Technology2 
-* Technology3
+* HTML 
+* CSS 
+* Javascript
 
 ## Description
 
-This template includes placeholders for:
+### Objectives
+* Create a form that allows a user to input items they need at the store. Use whatever input type that you prefer.
+* When the user submits the form, hide the form and display the list of items in alphabetical order, all uppercased.
+
+<!-- This template includes placeholders for:
 
 [x] Screenshots
 
@@ -23,14 +27,14 @@ This template includes placeholders for:
 [x] Goals
 1. Goal1
 2. Goal2
-3. Goal3
+3. Goal3 -->
 
 ## Setup/Installation Requirements
 
 * Clone this repo to your workspace.
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
-
+<!-- 
 KO Ask Yourself:
 
 [x] Do I need to run a server? 
@@ -39,7 +43,7 @@ KO Ask Yourself:
 
 [x] Is there other code this application depends on?
 
-_{Epicodus recommends deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+_{Epicodus recommends deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_ -->
 
 ## Known Bugs
 
@@ -50,6 +54,6 @@ _{Epicodus recommends deleting the project from your desktop, re-cloning the pro
 
 ## License
 
-[Choose License](https://choosealicense.com/)
+MIT License
 
-Copyright (c) 2022 Kirsten Opstad
+Copyright (c) 2022 Kirsten Opstad & Auston Moos
